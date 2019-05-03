@@ -45,20 +45,20 @@ sidebar:
       - item: Running 
         link:
 
-      - item: Tech Bloging 
+      - item: Tech Blogging 
         link: https://medium.com/@avinash28196
 
 career-profile:
     title: Career Profile
     summary: |
-      2 Year's of experiencein Java/JEE development and an exceptional software engineering experience in 
+      2 Years' of experience in Java/JEE development and an exceptional software engineering experience in 
       design and development of web, client-server environement and enterpise applications using core Java 
       and J2EE techonolgy like Spring MVC, Spring Boot, Hiberante,Java Persistence API, databse management system
       and system developement life cycle.
       
 
 education:
-    - degree: B.Tech in Information Science
+    - degree: B.E in Information Science
       university: M.S Ramaiah Institute of Technology
       time: 2013 - 2017
       details: |
@@ -72,9 +72,7 @@ experiences:
       time: Aug 2017 - Present
       company: Capgemini,Contractor for Discover Financial Serivces. 
       details: |
-        Java application developer in the Global payments fraud protection, unit of 
-        Discover financial services. Built an platform that helps analyst to review  
-        audit buisness logic which will be deployed into a machine 
+        Java application developer in the Global payments fraud protection, unit of Discover financial services. Built an platform that helps analyst to review audit buisness logic which will be deployed into a machine 
         learning model for detecting fraud across discover payments network.
         
         Java Application developer:
@@ -83,7 +81,7 @@ experiences:
           - Responsible for developing and maintaining entities and java bean
           -	Create java classes that perform field insertion, retrieval and tables synchronization throughout 
             various system nodes.
-          - Responsible for designing adequate JSP pages and JavaScript validation controls
+          - Responsible for designing adequate JSP pages and JavaScript validation controls.
           - Manage current database and perform updates for new changes required by the GUI
           - Create MySQL and shell scripts for reporting and scheduled tasks (Crontab)
           - Experience with developing and testing REST APIs, CURL, Postman.
@@ -91,10 +89,9 @@ experiences:
           
         ETL Data developer:
         
-          - Maintain and monitor scheduled ETL jobs
-          - Conduct performance tuning / analysis / optimization of reports and SQL
+          - Maintain and monitor scheduled ETL jobs.
+          - Conduct performance tuning / analysis / optimization of reports and SQL.
           - Scheduling batch jobs to perform ETL Activates 24/7 and proactively monitored it.
-          - Proactively monitor project schedules, timelines, and key metrics, and assure projects are prioritized and meet required deadlines
           - Analyze and document transactional source systems and existing data warehouse environment.
           - Investigate new data sources and design an integration strategy to include them in the EDW
 
@@ -113,7 +110,7 @@ projects:
 
       - title: A News web app built using React.js deployed on Heroku
         link: "https://news-outlets.herokuapp.com/"
-        tagline: "This WEb app provides curated headlines categorized by the source such as NY times, CNN and +70 sources and seamlessly integrated and deployed on HEroku server."
+        tagline: "This Web app provides curated headlines categorized by the source such as NY times, CNN and +70 outlets in a single page and seamlessly integrated and deployed on Heroku server."
 
 
 publications:
@@ -139,10 +136,13 @@ skills:
         level: 80%
 
       - name: React and Redux 
-        level: 80%
+        level: 75%
 
       - name: Bootstrap
         level: 90%
+        
+      - name: Database and shell scripting
+        level: 80%
 
       - name: HTML5 & CSS
         level: 90%
@@ -150,8 +150,7 @@ skills:
       - name: git version control
         level: 80%
       
-      - name: Database and shell scripting
-        level: 80%
+      
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="https://github.com/avinash28196" target="_blank" rel="nofollow">Aviansh Ramesh</a>
