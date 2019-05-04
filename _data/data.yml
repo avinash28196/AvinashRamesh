@@ -52,9 +52,9 @@ career-profile:
     title: Career Profile
     summary: |
       2 Years' of experience in Java/JEE development and an exceptional software engineering experience in 
-      design and development of web, client-server environement and enterpise applications using core Java 
-      and J2EE techonolgy like Spring MVC, Spring Boot, Hiberante,Java Persistence API, databse management system
-      and system developement life cycle.
+      design and development of web, client-server environment and enterpise applications using core Java 
+      and J2EE techonolgy like Spring MVC, Spring Boot, Hiberante,Java Persistence API, database management system
+      and system development life cycle.
       
 
 education:
@@ -72,14 +72,14 @@ experiences:
       time: Aug 2017 - Present
       company: Capgemini,Contractor for Discover Financial Serivces. 
       details: |
-        Java application developer in the Global payments fraud protection, unit of Discover financial services. Built an platform that helps analyst to review audit buisness logic which will be deployed into a machine 
+        Java application developer in the Global payments fraud protection, unit of Discover financial services. Built a platform that helps analyst to review audit business logic which will be deployed into a machine 
         learning model for detecting fraud across discover payments network.
         
         Java Application developer:
 
           - Design and implement agile solutions for a complex provisioning management system
           - Responsible for developing and maintaining entities and java bean
-          -	Create java classes that perform field insertion, retrieval and tables synchronization throughout 
+          -	Create java classes that perform field insertion, retrieval and tables synchronisation throughout 
             various system nodes.
           - Responsible for designing adequate JSP pages and JavaScript validation controls.
           - Manage current database and perform updates for new changes required by the GUI
