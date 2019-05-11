@@ -31,9 +31,9 @@ sidebar:
 
       - idiom: Kannada
         level: Professional
-        
+       
       - idiom: Hindi
-        level: Intermediate
+        level: Intermediate 
         
       - idiom: Tamil
         level: Intermediate
@@ -153,4 +153,4 @@ skills:
       
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="https://github.com/avinash28196" target="_blank" rel="nofollow">Aviansh Ramesh</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="https://github.com/avinash28196" target="_blank" rel="nofollow">Avinash Ramesh</a>
