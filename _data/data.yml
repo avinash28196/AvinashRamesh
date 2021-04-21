@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Avinash Ramesh
     tagline: Full Stack Developer
-    avatar: dp23.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: pro2021.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: avinash1024@outlook.com
@@ -51,10 +51,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      2 Years' of experience in Java/JEE development and an exceptional software engineering experience in 
-      design and development of web, client-server environment and enterprise applications using core Java 
-      and J2EE technology like Spring MVC, Spring Boot, Hibernate,Java Persistence API, database management system
-      and system development life cycle.
+        Ambitious Java developer with 4 years of experience in developing and
+        designing Enterprise web applications, including 1.2 years of experience in
+        Engineering Data on AWS. Passionate about building robust Data-driven
+        platforms. Seeking to leverage broad development experience and handson
+        technical expertise in a challenging role as a Full-stack Developer
       
 
 education:
